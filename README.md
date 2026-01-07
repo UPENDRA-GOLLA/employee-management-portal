@@ -447,7 +447,7 @@ This project demonstrates:
 
 **Vikranth Bolleddula**  
 Full Stack Developer (MERN)  
-[GitHub](https://github.com/vikranth666) | [LinkedIn](https://linkedin.com/in/b-vikranth)
+[GitHub](https://github.com/UPENDRA-GOLLA) | [LinkedIn](https://www.linkedin.com/in/g-upendra-b39a60249)
 
 ---
 
@@ -473,7 +473,7 @@ While this is an assignment project, suggestions and improvements are welcome!
 
 For questions or issues:
 - Open an issue on GitHub
-- Email: vikranth@example.com
+- Email: gollaupendra2023@gmail.com
 
 ---
 
