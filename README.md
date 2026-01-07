@@ -469,7 +469,7 @@ While this is an assignment project, suggestions and improvements are welcome!
 
 ---
 
-## 📞 Support
+##  Support
 
 For questions or issues:
 - Open an issue on GitHub
