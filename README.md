@@ -4,6 +4,9 @@ A full-stack **Employee Management Portal** built using the **MERN stack (MongoD
 This project demonstrates clean architecture, JWT authentication, REST APIs, and modern frontend practices.
 
 ---
+## UI
+<img width="1440" height="812" alt="Screenshot 2026-01-08 at 11 17 09 AM" src="https://github.com/user-attachments/assets/c66b0205-c4f0-452c-8a24-e5510b70952c" />
+
 
 ##  Project Overview
 
