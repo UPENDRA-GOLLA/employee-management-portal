@@ -7,6 +7,9 @@ This project demonstrates clean architecture, JWT authentication, REST APIs, and
 ## UI
 <img width="1440" height="812" alt="Screenshot 2026-01-08 at 11 17 09 AM" src="https://github.com/user-attachments/assets/c66b0205-c4f0-452c-8a24-e5510b70952c" />
 
+## Live Demo
+
+📍 https://workzenapp.vercel.app/
 
 ##  Project Overview
 
